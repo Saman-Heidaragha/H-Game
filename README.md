@@ -1,5 +1,5 @@
 
-# Simple Haskell Game
+# 2D Obstacle Haskell Game
 
 This a Simple 2D Haskell Game base on gloss library for Emurgo Haskell assignment.
 
