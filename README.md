@@ -1,11 +1,11 @@
-The H-Game is a simple Haskell-based application designed to showcase functional programming concepts in an interactive and engaging way. It serves as a fun project for learning and exploring the capabilities of Haskell.
+In this repository, I’ve built a simple interactive game using Haskell and the Gloss library to handle the graphics. The goal was to create a fun, easy-to-understand example of how to implement game mechanics and visuals in a functional programming language.
 
-# Overview:
-The game implements logic-based challenges where players interact with the program to achieve specific goals. It highlights the elegance of Haskell’s syntax and functional programming paradigm.
+# What the Game Does:
+The game lets users interact through input prompts, and based on their choices, the game’s state changes and progresses. I used Gloss to handle the graphical side, making sure the visuals are smooth and easy to follow.
 
-## Key Features:
-
-Functional Programming Showcase: Demonstrates core Haskell features like immutability, recursion, and type safety.  
-Interactive Gameplay: Engages users with straightforward challenges, making it ideal for both beginners and enthusiasts.  
-Clean and Modular Code: Written with clarity, the project is a great resource for learning and understanding Haskell.  
-The H-Game is perfect for anyone interested in exploring Haskell through a practical and fun coding experience.  
+# Key Features:
+Haskell for Game Logic: I’ve written the game logic using Haskell’s functional programming features like immutability and recursion, which helps keep the code clean and easy to manage.
+Interactive Gameplay: Players make choices, and the game responds to their input, updating the game state as they go.
+Graphics with Gloss: To make the game visually appealing, I used Gloss to handle rendering, providing smooth 2D graphics.
+Simple and Accessible: The design is straightforward, making it a great starting point for anyone new to Haskell or interested in using Gloss for building interactive applications.
+This project is a great way to get familiar with Haskell and Gloss while having fun with a simple game.
